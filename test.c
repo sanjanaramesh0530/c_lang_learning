@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("hello, sanjana ramesh\nhey there glad to meet you\ngoodmorning sweetheaet");
+    printf("hello, sanjana ");
+    printf("\nhey there glad to meet you\ngoodmorning sweetheaet");
     return 0;
 }
