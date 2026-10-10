@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
     int secretnumber=5;
     int guess;
